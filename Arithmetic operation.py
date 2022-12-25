@@ -1,0 +1,7 @@
+a=int(input("Enter value of a : "))
+b=int(input("Enter value of b : "))
+print("The ADITTION value is :",a+b)
+print("The SUBRACTION value is : ",a-b)
+print("The MULTIPLICATION value is : ",a*b)
+print("The QUOTIENT value is : ",a/b)
+print("The REMAINDER value is : ",a%b)

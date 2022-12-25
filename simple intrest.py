@@ -1,0 +1,5 @@
+p=float(input("Enter the Principle balance amount P : "))
+r=float(input("Enter the annual interest rate  r : "))
+t=float(input("Enter the Time in Years t : "))
+A = p ( 1 + r * t )
+print("The annual interest rate is A : ",a)
